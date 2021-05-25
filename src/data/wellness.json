@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "name": "GIF FIT",
+        "description": "Shameless plug alert! Try my circuit-style fitness app to get a challenging, fun and convenient workout in!",
+        "url": "https://gif-fit.netlify.app/",
+        "image": "https://media3.giphy.com/media/l41YgS3UPP5Qjwr8Q/giphy.gif?cid=ecf05e47yj5tpl3e7w1xbte97gdyr31g8c2noedyyv8gi4bg&rid=giphy.gif",
+        "alt": "Gif of man doing burpees",
+        "categories": [
+            "wellness"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Take a Hike!",
+        "description": "Use AllTrails to find a great hike near you!",
+        "url": "https://www.alltrails.com/",
+        "image": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-8/couple-hiking-mountain-climbing-1296x728-header.jpg?w=1155&h=1528",
+        "alt": "A couple hiking over a beautiful mountain ridge",
+        "categories": [
+            "outside",
+            "wellness",
+            "couples",
+            "family"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Go For a Run!",
+        "description": "Everyone knows running is good for you. But it can get kind of boring. Try these different running workouts with both beginner and advanced samples.",
+        "url": "https://www.nomeatathlete.com/running-workouts/",
+        "image": "https://www.nomeatathlete.com/wp-content/uploads/2016/11/running-workouts-2-1024x592.jpg",
+        "alt": "Woman running on the road",
+        "categories": [
+            "wellness",
+            "outside"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Yoga with Adriene",
+        "description": "Yoga is a great way to unwind or challenge both your body and mind. Yoga with Adriene YouTube channel offers hours of free Yoga workouts, covering most needs.",
+        "url": "https://www.youtube.com/user/yogawithadriene",
+        "image": "https://i1.wp.com/elbaflamenco.com/wp-content/uploads/2018/07/yoga-with-adriene-library.jpg?fit=1100%2C619&ssl=1",
+        "alt": "Adriene holding a yoga strecthing pose",
+        "categories": [
+            "wellness",
+            "inside"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Guided Meditation",
+        "description": "Life is chaotic! We all are stressed out in our own way. Try guided meditation and ease your mind, body and soul. Tara Brach has hundreds of meditations to explore. Give one or two a chance!",
+        "url": "https://www.tarabrach.com/guided-meditations/",
+        "image": "https://www.tarabrach.com/wp-content/uploads/2021/01/Untitled-design-1-633x310.png",
+        "alt": "A beautiful sunset on the ocean horizon with sandy beach and gentle waves in the foreground",
+        "categories": [
+            "wellness",
+            "solo",
+            "couples"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Rent A Bike",
+        "description": "Spinlister is a premier bike rental and sharing service that provides a platform to connect bike owners with active people looking to rent or borrow around the world. Where ever you are, find a bike to rent and go explore!",
+        "url": "https://www.spinlister.com/",
+        "image": "https://spinlister-blog.s3.amazonaws.com/2014/08/bike-sharing-spinlister.jpg",
+        "alt": "Six images of different bikes against various city street backdrops",
+        "categories": [
+            "wellness",
+            "outside"
+        ]
+    }
+]

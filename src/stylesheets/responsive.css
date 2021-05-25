@@ -1,0 +1,55 @@
+@media only screen and (max-width: 370px) {
+  .activity-title {
+    font-size: 1rem;
+  }
+
+  .category-grid-instructions {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (min-width: 400px) {
+  ol {
+    margin-left: 1.5rem;
+  }
+}
+
+@media only screen and (min-width: 500px) {
+  ol {
+    margin-left: 2rem;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .index-category-wrapper {
+    width: 400px;
+  }
+
+  .card {
+    width: 75%;
+  }
+
+  .description {
+    font-size: 1.25rem;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  ol {
+    margin-left: 3rem;
+  }
+
+  .card {
+    width: 35rem;
+  }
+
+  .activity-title {
+    font-size: 1.5rem;
+  }
+}
+@media only screen and (max-width: 768px) {
+
+  .title{
+    font-size: 1.4rem;
+  }
+}

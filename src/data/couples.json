@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Take a Hike!",
+        "description": "Use AllTrails to find a great hike near you!",
+        "url": "https://www.alltrails.com/",
+        "image": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-8/couple-hiking-mountain-climbing-1296x728-header.jpg?w=1155&h=1528",
+        "alt": "A couple hiking over a beautiful mountain ridge",
+        "categories": [
+            "outside",
+            "wellness",
+            "couples",
+            "family"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Adopt a Pet!",
+        "description": "Really bored? And often? Help rescue a pet in need of a good home! You won't be bored, we promise!",
+        "url": "https://www.adoptapet.com/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCyJt4CfbLaIvAJK1lX91LKS2tra9IpUjRQ&usqp=CAU",
+        "alt": "Young puppy and kitten sitting in a field, looking incredibly adorable",
+        "categories": [
+            "family",
+            "projects",
+            "solo",
+            "couples"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Scavenger Hunt - Couples",
+        "description": "Tired of spending date nights on the couch watching Netflix? Check out this awesome scavenger hunt and other date night ideas from The Dating Divas. They include a free PDF to get started with!",
+        "url": "https://www.thedatingdivas.com/scavenger-hunt-date-night/",
+        "image": "https://www.thedatingdivas.com/wp-content/uploads/2019/02/Scavenger-Hunt-Date-Night-Printable-Set.jpg",
+        "alt": "The Dating Divas collection of date night scavenger hunt included activities",
+        "categories": [
+            "couples"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Bicycle Date Ideas",
+        "description": "Need to get out, but don't want to leave your true love? Take a romantic bike ride with your significant other! This article has 10 unique ideas to explore while riding your bikes. ",
+        "url": "https://momentummag.com/ten-fun-bicycle-date-ideas/",
+        "image": "https://momentummag.com/wp-content/uploads/2015/06/Wellness_Bike_Date_Thomas_Rousing.jpg",
+        "alt": "A couple riding their bikes alongside a metropolitan river with the sun reflecting off the water",
+        "categories": [
+            "couples",
+            "outside"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Stream A Live Concert",
+        "description": "Do you miss attending live concerts as much as I do? Thankfully Songkick keeps track of hundreds of live streams, many of which are free, and most streams cost around $20. Enjoy a live concert in the comfort of your own home, and turn it up as loud as you want!",
+        "url": "https://www.songkick.com/live-stream-concerts",
+        "image": "https://assets.sk-static.com/images/nw/components/live-streams-brief/live-streams-hero-image.png",
+        "alt": "Various screen shots of musicians performing live in a recorded studio setting for live streaming",
+        "categories": [
+            "couples",
+            "inside",
+            "solo"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Water Gun Fight",
+        "description": "Grab some water guns at your local dollar store and have an epic water gun fight. Don't forget the water balloons too! Have a blast while you beat the heat. Check out these water gun games ideas too.",
+        "url": "https://www.playpartyplan.com/outdoor-water-games/",
+        "image": "https://cdn.lifehack.org/wp-content/uploads/2014/10/07031039/cheap-and-fun-date-ideas-watergun.jpg",
+        "alt": "A man and woman shooting each other with water guns in a park",
+        "categories": [
+            "family",
+            "couples",
+            "outside"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Painting With A Twist",
+        "description": "Get your paint supplies, your favorite adult beverage and find a virtual paint event with Twist at Home's virtual live painting events. Create a masterpiece!",
+        "url": "https://www.paintingwithatwist.com/pages/virtual-live-events/",
+        "image": "https://c.files.bbci.co.uk/C3F8/production/_99086105_capture.png",
+        "alt": "People painting and having a glass of wine",
+        "categories": [
+            "couples"
+        ]
+    }
+]

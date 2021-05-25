@@ -1,0 +1,441 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap");
+
+body {
+  background-color: var(--background-color);
+  transition: var(--theme-transition);
+}
+
+button {
+  cursor: pointer;
+}
+
+ol {
+  margin-left: 1rem;
+}
+
+:root {
+  /* neutrals */
+  --black: black;
+  --white: #e8e8e8;
+  --off-white: rgb(250, 250, 250);
+  --gray: rgb(180, 180, 180);
+
+  /* accents */
+  --pale-yellow: rgb(253, 253, 69);
+
+  /* blues */
+  --navy-blue: #195586;
+  --slate-blue: rgb(23, 40, 53);
+  --full-blue: #b4bdb3;
+  --medium-blue: #d4dcd3;
+  --light-blue: rgba(127, 223, 252, 0.1);
+
+  /* purples */
+  --full-purple: rgb(199, 130, 255);
+  --medium-purple: rgb(210, 165, 255);
+  --light-purple: rgb(229, 205, 255);
+  --dark-purple: rgb(65, 0, 117);
+
+  /* shadows */
+  --black-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  --light-shadow: 0 1px 2px 2px rgba(105, 105, 105, 0.3);
+
+  /* transition */
+  --theme-transition: background-color 0.4s ease-in-out, color 0.8s ease-in-out;
+}
+
+/* light theme */
+body.light {
+  /* body */
+  --background-color: var(--white);
+
+  /* titles, headers and text */
+  --title-text: var(--black);
+  --index-text: var(--navy-blue);
+  --description-text: var(--black);
+  --accent-text: var(--black);
+  --footer-text: var(--black);
+  --link-hover: var(--full-blue);
+
+  /* grid buttons and text */
+  --grid-btn-text: var(--navy-blue);
+  --row-one-color: var(--light-blue);
+  --row-two-color: var(--medium-blue);
+  --row-three-color: var(--full-blue);
+  --grid-btn-border-color: var(--navy-blue);
+
+  /* navigation buttons */
+  --show-random-btn-text: var(--white);
+  --show-random-btn-color: var(--navy-blue);
+  --index-btn-text: var(--navy-blue);
+  --index-btn-color: var(--white);
+  --take-me-there-btn-text: var(--white);
+  --take-me-there-btn-color: var(--navy-blue);
+  --clear-btn-text: var(--navy-blue);
+  --clear-btn-color: var(--white);
+  --home-btn-text: var(--navy-blue);
+  --home-btn-color: var(--white);
+  --btn-border-color: var(--navy-blue);
+
+  /* card */
+  --box-shadow: var(--black-shadow);
+}
+
+/* dark theme */
+body.dark {
+  /* body */
+  --background-color: var(--slate-blue);
+
+  /* titles, headers and text */
+  --title-text: var(--off-white);
+  --index-text: var(--off-white);
+  --description-text: var(--off-white);
+  --accent-text: var(--pale-yellow);
+  --footer-text: var(--gray);
+  --link-hover: var(--full-purple);
+
+  /* grid buttons and text */
+  --grid-btn-text: var(--dark-purple);
+  --row-one-color: var(--light-purple);
+  --row-two-color: var(--medium-purple);
+  --row-three-color: var(--full-purple);
+  --grid-btn-border-color: var(--dark-purple);
+
+  /* navigtation buttons */
+  --show-random-btn-text: var(--off-white);
+  --show-random-btn-color: var(--slate-blue);
+  --index-btn-text: var(--off-white);
+  --index-btn-color: var(--slate-blue);
+  --take-me-there-btn-text: var(--off-white);
+  --take-me-there-btn-color: var(--slate-blue);
+  --clear-btn-text: var(--off-white);
+  --clear-btn-color: var(--slate-blue);
+  --home-btn-text: var(--off-white);
+  --home-btn-color: var(--slate-blue);
+  --btn-border-color: var(--gray);
+
+  /* card */
+  --box-shadow: var(--light-shadow);
+}
+
+.App {
+  font-family: "Exo 2", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background: var(--background-color);
+ /* background-image: url('../assets/frequently.svg'); */
+  transition: var(--theme-transition);
+  background-repeat: no-repeat;
+  background-size: 35%;
+  background-position: top 10% right;
+}
+
+/* headers / titles */
+.title {
+  /* font-family: "Bebas Neue", cursive; */
+  font-size: 2.4rem;
+  margin-top: 0.25rem;
+  color: var(--accent-text);
+  transition: var(--theme-transition);
+  position: absolute;
+  left: .5rem;
+}
+
+.subtitle {
+  font-family: "Hachi Maru Pop", cursive;
+  font-size: 0.75rem;
+  margin-top: -2.5rem;
+  color: var(--title-text);
+  transition: var(--theme-transition);
+}
+
+.activity-title {
+  font-family: "Exo 2", sans-serif;
+  font-size: 1.25rem;
+  margin-top: 2rem;
+  color: var(--accent-text);
+  transition: var(--theme-transition);
+}
+
+.index-title {
+  margin-top: 2rem;
+  font-size: 2rem;
+  margin-bottom: -0.5rem;
+  color: var(--title-text);
+  transition: var(--theme-transition);
+}
+
+.index-category-title {
+  font-family: "Bebas Neue", cursive;
+  font-size: 1.5rem;
+  color: var(--accent-text);
+  margin-top: 2rem;
+  transition: var(--theme-transition);
+}
+
+.category-title {
+  font-family: "Bebas Neue", cursive;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  color: var(--accent-text);
+  transition: var(--theme-transition);
+}
+
+/* category button grid */
+.grid-wrapper {
+  display: flex;
+  justify-content: center;
+  transition: var(--theme-transition);
+}
+
+.category-grid {
+  box-shadow: var(--box-shadow);
+  border-radius: 5px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 90%;
+  transition: var(--theme-transition);
+}
+
+.category-grid-instructions {
+  font-size: 1.25rem;
+  margin-top: 2rem;
+  color: var(--accent-text);
+  transition: var(--theme-transition);
+}
+
+/* buttons */
+.random-activity-btn {
+  font-family: "Exo 2", sans-serif;
+  font-weight: bold;
+  background-color: var(--show-random-btn-color);
+  color: var(--show-random-btn-text);
+  padding: 0.7rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-color: var(--btn-border-color);
+  transition: var(--theme-transition);
+  border-radius: 20px;
+}
+.random-activity-btn:hover{
+  background-color: #2274b7;
+}
+.random-activity-btn:focus{
+  outline: none;
+
+}
+
+.take-me-there {
+  font-family: "Exo 2", sans-serif;
+  font-weight: bold;
+  background-color: var(--take-me-there-btn-color);
+  color: var(--take-me-there-btn-text);
+  padding: 0.7rem;
+  cursor: pointer;
+  justify-self: center;
+  border-color: var(--btn-border-color);
+  transition: var(--theme-transition);
+  border-radius: 20px;
+}
+.take-me-there:hover{
+  background-color: rgb(42, 88, 173);
+  transform: scale(.98);
+}
+.take-me-there:focus{
+  outline: none;
+}
+.go-back-btn {
+  font-family: "Exo 2", sans-serif;
+  font-weight: bold;
+  background-color: var(--clear-btn-color);
+  color: var(--clear-btn-text);
+  padding: 0.8rem;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+  margin-bottom: 10rem;
+  border-color: var(--btn-border-color);
+  transition: var(--theme-transition);
+}
+.go-back-btn:hover{
+  background-color: #5697d4;
+  transform: scale(.98);
+
+}
+.go-back-btn:focus{
+  outline: none;
+}
+.index-btn {
+  font-family: "Exo 2", sans-serif;
+  font-weight: bold;
+  background-color: var(--index-btn-color);
+  color: var(--index-btn-text);
+  padding: 0.7rem;
+  margin-top: 1rem;
+  margin-bottom: 10rem;
+  border-color: var(--btn-border-color);
+  transition: background-color 0.3s ease-in-out, color 0.6s ease-in-out;
+  transition: var(--theme-transition);
+  border-radius: 20px;
+}
+ .index-btn:hover{
+  background-color: #5697d4;
+  transform: scale(.98);
+
+}
+.index-btn:focus{
+  outline: none;
+}
+.home-btn {
+  font-family: "Exo 2", sans-serif;
+  font-weight: bold;
+  background-color: var(--home-btn-color);
+  color: var(--home-btn-text);
+  padding: 0.7rem;
+  margin-top: 2rem;
+  margin-bottom: -0.5rem;
+  border-color: var(--btn-border-color);
+  transition: var(--theme-transition);
+  border-radius: 20px;
+}
+.home-btn:hover{
+  background-color: #5697d4;
+}
+.home-btn:focus{
+  outline: none;
+}
+
+.bottom-home-btn {
+  font-family: "Exo 2", sans-serif;
+  font-weight: bold;
+  background-color: var(--home-btn-color);
+  color: var(--home-btn-text);
+  padding: 0.7rem;
+  border-radius: 20px;
+  margin-top: 2rem;
+  margin-bottom: 10rem;
+  border-color: var(--btn-border-color);
+  transition: var(--theme-transition);
+}
+.bottom-home-btn:hover{
+  background-color: #5697d4;
+}
+.bottom-home-btn:focus{
+  outline: none;
+}
+
+.toggle-theme-button {
+  font-family: "Exo 2", sans-serif;
+  font-weight: bold;
+  font-size: 0.75rem;
+  background-color: white;
+  color: rgb(20, 81, 131);
+  padding: 0.5rem;
+  margin-bottom: -1rem;
+  border-color: var(--btn-border-color);
+  transition: var(--theme-transition);
+}
+.toggle-theme-button:focus{
+  outline: none;
+}
+.next-btn {
+  font-family: "Exo 2", sans-serif;
+  font-weight: bold;
+  background-color: var(--clear-btn-color);
+  color: var(--clear-btn-text);
+  padding: 0.7rem;
+  /* margin-top: 2rem; */
+  border-color: var(--btn-border-color);
+  transition: var(--theme-transition);
+  border-radius: 20px;
+}
+.next-btn:hover{
+  background-color: #5697d4;
+  transform: scale(.98);
+}
+.next-btn:focus{
+  outline: none;
+}
+/* card display */
+.card-wrapper {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  transition: var(--theme-transition);
+}
+
+.card {
+  box-shadow: var(--box-shadow);
+  width: 100%;
+  border-radius: 5px;
+  transition: var(--theme-transition);
+}
+.card>.activity-image:hover{
+ opacity: .9 !important;
+}
+ 
+.container {
+  padding: 15px;
+  transition: var(--theme-transition);
+}
+
+.description {
+  color: var(--description-text);
+  transition: var(--theme-transition);
+}
+
+/* image */
+.activity-image {
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+  transition: var(--theme-transition);
+}
+
+/* index table of contents */
+.index-category-wrapper {
+  box-shadow: var(--box-shadow);
+  border-radius: 5px;
+  margin-top: -1rem;
+  width: 90%;
+  transition: var(--theme-transition);
+}
+
+.index-list-items {
+  font-weight: bold;
+  color: var(--index-text);
+  cursor: pointer;
+  transition: var(--theme-transition);
+}
+.index-list-items:hover{
+  border-bottom: 1px solid #195586;
+  width: max-content;
+}
+
+.footer {
+  font-family: "Exo 2", sans-serif;
+  margin-top: auto;
+  bottom: 0;
+  border-top: 1px solid var(--footer-text);
+  color: var(--footer-text);
+  text-align: center;
+  transition: var(--theme-transition), border-top-color 0.8s ease-in-out;
+}
+
+.footer-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: var(--footer-text);
+  transition: var(--theme-transition);
+}
+
+.footer-link:hover {
+  color: blue;
+  transition: none;
+  transform: scale(1.2);
+}

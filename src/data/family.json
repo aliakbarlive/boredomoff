@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "The Floor is Lava!",
+        "description": "Gather your couch cushions, blankets and pillows, and try to keep out of the lava.",
+        "url": "https://www.parents.com/fun/activities/indoor/ways-to-play-floor-is-lava-game-at-home/",
+        "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/359/557/543.jpg",
+        "alt": "Old-timey Spiderman sitting on a livingroom ceiling fan, that says the floor is lava",
+        "categories": [
+            "family",
+            "inside"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Painted Rocks",
+        "description": "You've got rocks, you've got paint, why not put them together?",
+        "url": "https://www.parentmap.com/article/painted-rocks-treasure-hunt-kid-craze",
+        "image": "https://www.courant.com/resizer/ul4qJhj9aqzRkD0qf2cSE0q8Hv8=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/FT6YSMJYMBHP5EITCVQV23OGJI.jpg",
+        "alt": "Various colorfully painted rocks",
+        "categories": [
+            "crafts",
+            "family"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Take a Hike!",
+        "description": "Use AllTrails to find a great hike near you!",
+        "url": "https://www.alltrails.com/",
+        "image": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-8/couple-hiking-mountain-climbing-1296x728-header.jpg?w=1155&h=1528",
+        "alt": "A couple hiking over a beautiful mountain ridge",
+        "categories": [
+            "outside",
+            "wellness",
+            "couples",
+            "family"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Adopt a Pet!",
+        "description": "Really bored? And often? Help rescue a pet in need of a good home! You won't be bored, we promise!",
+        "url": "https://www.adoptapet.com/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCyJt4CfbLaIvAJK1lX91LKS2tra9IpUjRQ&usqp=CAU",
+        "alt": "Young puppy and kitten sitting in a field, looking incredibly adorable",
+        "categories": [
+            "family",
+            "projects",
+            "solo",
+            "couples"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Scavenger Hunt - Kids",
+        "description": "Your kids driving you nuts? Entertain them with these awesome scavenger hunt ideas. There's like 20 listed here!",
+        "url": "https://www.goodhousekeeping.com/life/parenting/g32050844/scavenger-hunt-ideas-for-kids/",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/indoor-scavenger-hunt-wide-750-x-500-1586175956.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=768:*",
+        "alt": "Around the house scavenger hunt list with about 40 items to check off",
+        "categories": [
+            "family",
+            "inside",
+            "outside"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Shadow Art",
+        "description": "An ingenious craft for kids (and grownups who appreciate playing like children). Use shadows of everyday objects to create awesome art. So smart!",
+        "url": "https://kidsactivitiesblog.com/137133/how-to-make-shadow-art-with-kids/",
+        "image": "https://kidsactivitiesblog--o--com.follycdn.com/wp-content/uploads/2020/03/dinosaur-shadow-art-610x712.png",
+        "alt": "A child tracing the shadows of toy dinosaurs on a large roll of paper",
+        "categories": [
+            "family",
+            "crafts"
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Adopt a Pet",
+        "description": "Really bored? And often? Help rescue a pet in need of a good home! You won't be bored, we promise!",
+        "url": "https://www.adoptapet.com/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCyJt4CfbLaIvAJK1lX91LKS2tra9IpUjRQ&usqp=CAU",
+        "alt": "Young puppy and kitten sitting in a field, looking incredibly adorable",
+        "categories": [
+            "family",
+            "projects",
+            "solo",
+            "couples"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Milk Paint Old Furniture",
+        "description": "Ever heard of milk paint? Me neither! Take a piece of old furniture like this dresser and turn it into something beautiful.",
+        "url": "https://www.justmeasuringup.com/milk-paint-dresser/",
+        "image": "https://www.justmeasuringup.com/wp-content/uploads/2018/04/028-Dresser-Redo.jpg",
+        "alt": "A refurbished dresser, finished slate blue milk paint and staged with flowers, old books and photographs",
+        "categories": [
+            "projects",
+            "solo",
+            "couples"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "DIY Fire Pit",
+        "description": "Does your outdoor space need a little work? Check out this simple and cost-effective homemade fire pit! Can you already smell the roasted marshmallows?",
+        "url": "https://buildingourrez.com/how-to-make-a-diy-fire-pit-in-your-backyard/",
+        "image": "https://buildingourrez.com/wp-content/uploads/2018/09/diy-backyard-fire-pit_0550-2000x1500.jpg",
+        "alt": "A homemade firepit from cinder blocks with chairs positioned around the pit in a semi-circle",
+        "categories": [
+            "projects",
+            "outside"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "How to Propagate a Plant",
+        "description": "Who doesn't love plants? Now you can learn to have MORE. For FREE. At this point, you're welcome!",
+        "url": "https://www.housebeautiful.com/lifestyle/gardening/a30784268/how-to-propagate-plant-from-cuttings/",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-hb-prop-plant-final-clean-00-00-49-08-still010-1581721742.jpg?resize=768:*",
+        "alt": "A plant in a pot with a newly propagated section being watered",
+        "categories": [
+            "projects",
+            "solo",
+            "inside",
+            "outside"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Plant a Tree",
+        "description": "It's good for the planet and it makes your yard look nice. Sounds like a win-win! Take your newly acquired tree-planting skills to the next level and discovere where you can plant trees in your community. Save the planet even more!",
+        "url": "https://www.growingagreenerworld.com/how-to-plant-a-tree/",
+        "image": "https://www.growingagreenerworld.com/wp-content/uploads/2017/04/PlantingDepth-LR.jpg",
+        "alt": "A young tree being planted into a newly dug hole in the ground",
+        "categories": [
+            "proejcts",
+            "outside",
+            "family",
+            "solo"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Clean Out Your Closet",
+        "description": "We've all seen Marie Kondo memes. Regarldess if you need more joy in your life or not, a clean, organized closet is a great idea. Just think of all the stuff you can donate too!",
+        "url": "https://www.minimalismmadesimple.com/home/clean-out-closet/",
+        "image": "https://www.minimalismmadesimple.com/wp-content/uploads/2020/12/wardrobe-1.png",
+        "alt": "A highly organized and clean lookig closet, curated and minimally styled",
+        "categories": [
+            "projects",
+            "inside"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Start an Herb Garden",
+        "description": "New to gardening? Herbs are fun and easy way to hone your green thumb. Check out this article on getting started with your own herb garden. The best part? That satisfying feeling of cooking with something you grew yourself!",
+        "url": "https://bonnieplants.com/gardening/how-to-grow-an-herb-garden/",
+        "image": "https://gardenerspath.com/wp-content/uploads/2020/04/Herbs-Growing-in-Raised-Beds.jpg",
+        "alt": "An outdoor garden filled with planter boxes featuring a myriad of herbs and plants",
+        "categories": [
+            "projects",
+            "crafts"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Organize Your Garage",
+        "description": "We've all done it: let our garages become unruly monsters where finding anything is impossible. Use this guide to help you clean and organize your garage, and you will thank yourself for years to come!",
+        "url": "https://www.budgetdumpster.com/blog/how-to-clean-out-your-garage-and-conquer-the-clutter-for-good/",
+        "image": "https://www.drivenbydecor.com/wp-content/uploads/2018/09/how-organize-garage-elfa-utility-shelving-container-store.jpg",
+        "alt": "A clean and organized garage with everyday garaghe items shelved, boxed and labeled",
+        "categories": [
+            "projects"
+        ]
+    }
+]

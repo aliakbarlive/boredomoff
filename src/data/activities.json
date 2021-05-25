@@ -1,0 +1,416 @@
+[
+    {
+        "id": 1,
+        "name": "The Floor is Lava",
+        "description": "Gather your couch cushions, blankets and pillows, and try not to burn up alive.",
+        "url": "https://www.parents.com/fun/activities/indoor/ways-to-play-floor-is-lava-game-at-home/",
+        "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/359/557/543.jpg",
+        "alt": "Old-timey Spiderman sitting on a livingroom ceiling fan, that says the floor is lava",
+        "categories": [
+            "family",
+            "games",
+            "inside"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Painted Rocks",
+        "description": "You've got rocks, you've got paint, why not put them together?",
+        "url": "https://www.parentmap.com/article/painted-rocks-treasure-hunt-kid-craze",
+        "image": "https://www.courant.com/resizer/ul4qJhj9aqzRkD0qf2cSE0q8Hv8=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/FT6YSMJYMBHP5EITCVQV23OGJI.jpg",
+        "alt": "Various colorfully painted rocks",
+        "categories": [
+            "crafts",
+            "family"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "GIF FIT",
+        "description": "Shameless plug alert! Try my circuit-style fitness app to get a challenging, fun and convenient workout in!",
+        "url": "https://gif-fit.netlify.app/",
+        "image": "https://media3.giphy.com/media/l41YgS3UPP5Qjwr8Q/giphy.gif?cid=ecf05e47yj5tpl3e7w1xbte97gdyr31g8c2noedyyv8gi4bg&rid=giphy.gif",
+        "alt": "Gif of man doing burpees",
+        "categories": [
+            "wellness"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Take a Hike",
+        "description": "Use AllTrails to find a great hike near you!",
+        "url": "https://www.alltrails.com/",
+        "image": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-8/couple-hiking-mountain-climbing-1296x728-header.jpg?w=1155&h=1528",
+        "alt": "A couple hiking over a beautiful mountain ridge",
+        "categories": [
+            "outside",
+            "wellness",
+            "couples",
+            "family"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Adopt a Pet",
+        "description": "Really bored? And often? Help rescue a pet in need of a good home! You won't be bored, we promise!",
+        "url": "https://www.adoptapet.com/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCyJt4CfbLaIvAJK1lX91LKS2tra9IpUjRQ&usqp=CAU",
+        "alt": "Young puppy and kitten sitting in a field, looking incredibly adorable",
+        "categories": [
+            "family",
+            "solo",
+            "couples"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Homemade Pizza Night",
+        "description": "Looking for a fun meal to make with your family, friends or just yourself? Pizza can do anything!",
+        "url": "https://www.foodnetwork.com/fn-dish/recipes/2016/04/diy-pizza-night-like-youve-never-seen-it-before",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/11/23/1/FN_buffalo-pizza-008_s4x3.jpg.rend.hgtvcom.616.462.suffix/1384540642451.jpeg",
+        "alt": "Wingless Buffalo Chicken Pizza",
+        "categories": [
+            "food",
+            "family",
+            "solo",
+            "couples"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Best Ever Chocolate Chip Cookies",
+        "description": "The New York Times says this is the best chocolate chip cookie recipe on the planet. How can you NOT try and make these??",
+        "url": "https://www.mybakingaddiction.com/new-york-times-chocolate-chip-cookies-recipe/",
+        "image": "https://www.mybakingaddiction.com/wp-content/uploads/2011/05/Baked-Chocolate-Chip-Cookies-12-of-16_resized.jpg",
+        "alt": "New York Times best chocolate chip cookies stacked on a plate",
+        "categories": [
+            "food",
+            "family"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Scavenger Hunt - Kids",
+        "description": "Your kids driving you nuts? Entertain them with these awesome scavenger hunt ideas. There's like 20 listed here!",
+        "url": "https://www.goodhousekeeping.com/life/parenting/g32050844/scavenger-hunt-ideas-for-kids/",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/indoor-scavenger-hunt-wide-750-x-500-1586175956.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=768:*",
+        "alt": "Around the house scavenger hunt list with about 40 items to check off",
+        "categories": [
+            "family"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Scavenger Hunt - Couples",
+        "description": "Tired of spending date nights on the couch watching Netflix? Check out this awesome scavenger hunt and other date night ideas from The Dating Divas. They include a free PDF to get started with!",
+        "url": "https://www.thedatingdivas.com/scavenger-hunt-date-night/",
+        "image": "https://www.thedatingdivas.com/wp-content/uploads/2019/02/Scavenger-Hunt-Date-Night-Printable-Set.jpg",
+        "alt": "The Dating Divas collection of date night scavenger hunt included activities",
+        "categories": [
+            "couples"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Go For a Run",
+        "description": "Everyone knows running is good for you. But it can get kind of boring. Try these different running workouts with both beginner and advanced samples.",
+        "url": "https://www.nomeatathlete.com/running-workouts/",
+        "image": "https://www.nomeatathlete.com/wp-content/uploads/2016/11/running-workouts-2-1024x592.jpg",
+        "alt": "Woman running on the road",
+        "categories": [
+            "wellness",
+            "outside"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Yoga with Adriene",
+        "description": "Yoga is a great way to challenge both your body and mind, or simply unwind. The Yoga with Adriene YouTube channel offers hours of free Yoga workouts, covering most needs.",
+        "url": "https://www.youtube.com/user/yogawithadriene",
+        "image": "https://i1.wp.com/elbaflamenco.com/wp-content/uploads/2018/07/yoga-with-adriene-library.jpg?fit=1100%2C619&ssl=1",
+        "alt": "Adriene holding a yoga strecthing pose",
+        "categories": [
+            "wellness",
+            "inside"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Guided Meditation",
+        "description": "Life is chaotic! We all are stressed out in our own way. Try guided meditation and ease your mind, body and soul. Tara Brach has hundreds of meditations to explore. Give one or two a listen!",
+        "url": "https://www.tarabrach.com/guided-meditations/",
+        "image": "https://www.tarabrach.com/wp-content/uploads/2021/01/Untitled-design-1-633x310.png",
+        "alt": "A beautiful sunset on the ocean horizon with sandy beach and gentle waves in the foreground",
+        "categories": [
+            "wellness",
+            "solo"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Start a Journal",
+        "description": "Instead of doomscrolling on Twitter (yes, I see you!), start writing your thoughts down. Journaling is a great way to inspire yourself and others!",
+        "url": "https://penzu.com/how-to-start-and-write-a-journal",
+        "image": "https://miro.medium.com/max/4000/1*hXoAKUEgKa3o6CfuXTwKMQ.jpeg",
+        "alt": "A woman sitting cross-legged with an open journal in her lap, getting ready to write",
+        "categories": [
+            "solo",
+            "wellness"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Milk Paint Old Furniture",
+        "description": "Ever heard of milk paint? Me neither! Take a piece of old furniture like this dresser and turn it into something beautiful.",
+        "url": "https://www.justmeasuringup.com/milk-paint-dresser/",
+        "image": "https://www.justmeasuringup.com/wp-content/uploads/2018/04/028-Dresser-Redo.jpg",
+        "alt": "A refurbished dresser, finished slate blue milk paint and staged with flowers, old books and photographs",
+        "categories": [
+            "projects"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "DIY Fire Pit",
+        "description": "Does your outdoor space need a little work? Check out this simple and cost-effective homemade fire pit! Can you already smell the roasted marshmallows?",
+        "url": "https://buildingourrez.com/how-to-make-a-diy-fire-pit-in-your-backyard/",
+        "image": "https://buildingourrez.com/wp-content/uploads/2018/09/diy-backyard-fire-pit_0550-2000x1500.jpg",
+        "alt": "A homemade firepit from cinder blocks with chairs positioned around the pit in a semi-circle",
+        "categories": [
+            "projects",
+            "outside"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "How to Propagate a Plant",
+        "description": "Who doesn't love plants? Now you can learn to have MORE. For FREE. At this point, you're welcome!",
+        "url": "https://www.housebeautiful.com/lifestyle/gardening/a30784268/how-to-propagate-plant-from-cuttings/",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-hb-prop-plant-final-clean-00-00-49-08-still010-1581721742.jpg?resize=768:*",
+        "alt": "A plant in a pot with a newly propagated section being watered",
+        "categories": [
+            "projects",
+            "outside"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Plant a Tree",
+        "description": "It's good for the planet and it makes your yard look nice. Sounds like a win-win! Take your newly acquired tree planting skills to the next level and discover where you can plant trees in your community. Save the planet even more!",
+        "url": "https://www.growingagreenerworld.com/how-to-plant-a-tree/",
+        "image": "https://www.growingagreenerworld.com/wp-content/uploads/2017/04/PlantingDepth-LR.jpg",
+        "alt": "A young tree being planted into a newly dug hole in the ground",
+        "categories": [
+            "projects",
+            "outside",
+            "family",
+            "solo"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Shadow Art",
+        "description": "An ingenious craft for kids (and grownups who appreciate playing like children): use shadows of everyday objects to create awesome art. So smart!",
+        "url": "https://happymomhacks.com/chalk-drawing-ideas-shadow-art/",
+        "image": "https://i0.wp.com/happymomhacks.com/wp-content/uploads/2020/04/dinosaur-scene-1.jpg?ssl=1",
+        "alt": "A child tracing the shadows of toy dinosaurs on a large roll of paper",
+        "categories": [
+            "family",
+            "crafts"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Organize Your Fridge",
+        "description": "Do you know what's in that tupperware hiding in the back of your fridge? Do you even remember the last time you cleaned out that thing? This handy guide helps you clean up and organize your refrigerator like a pro!",
+        "url": "https://www.simplyss.com/blog/how-to-organize-your-refrigerator-in-12-simple-steps/",
+        "image": "https://www.simplyss.com/blog/wp-content/uploads/2018/07/sss-fridge-org-after.jpg",
+        "alt": "Refrigerator with highly organized items and very clean shelves",
+        "categories": [
+            "food",
+            "projects"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Clean Out Your Closet",
+        "description": "We've all seen the Marie Kondo memes. Whether or not you need more joy in your life, a clean, organized closet is a great idea. Just think of all the stuff you can donate. This article gives you 11 practical ideas to improve your least favorite room.",
+        "url": "https://www.minimalismmadesimple.com/home/clean-out-closet/",
+        "image": "https://www.minimalismmadesimple.com/wp-content/uploads/2020/12/wardrobe-1.png",
+        "alt": "A highly organized and clean lookig closet, curated and minimally styled",
+        "categories": [
+            "projects",
+            "inside"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Bicycle Date Ideas",
+        "description": "Need to get out, but don't want to leave your true love? Take a romantic bike ride with your significant other! This article has 10 unique ideas to explore while riding your bikes. ",
+        "url": "https://momentummag.com/ten-fun-bicycle-date-ideas/",
+        "image": "https://momentummag.com/wp-content/uploads/2015/06/Wellness_Bike_Date_Thomas_Rousing.jpg",
+        "alt": "A couple riding their bikes alongside a metropolitan river with the sun reflecting off the water",
+        "categories": [
+            "couples",
+            "outside"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Build Your Own Board Game",
+        "description": "Do you ever get tired of playing the same games over and over? Why not make your own! You could start totally from scratch, or modify a family favorite. Check out these ideas on how to get started making your own game!",
+        "url": "https://www.instructables.com/Build-your-Own-Board-Game/",
+        "image": "https://content.instructables.com/ORIG/FMN/GKS2/I301KOV3/FMNGKS2I301KOV3.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=ee5a315a26c88dd0abdc92c20871158a",
+        "alt": "An assortment of materials needed to design and create a board game, including tablet, game pieces and paper",
+        "categories": [
+            "crafts",
+            "family"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Stream A Live Concert",
+        "description": "Do you miss attending live concerts as much as I do? Thankfully Songkick keeps track of hundreds of live streams, many of which are free, and most streams cost around $20. Enjoy a live concert in the comfort of your own home, and turn it up as loud as you want!",
+        "url": "https://www.songkick.com/live-stream-concerts",
+        "image": "https://assets.sk-static.com/images/nw/components/live-streams-brief/live-streams-hero-image.png",
+        "alt": "Various screen shots of musicians performing live in a recorded studio setting for live streaming",
+        "categories": [
+            "couples",
+            "inside",
+            "solo"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Go Stargazing",
+        "description": "They're always there, but when is the last time you stopped and watched the stars? Stargazing can be an amazing experience, on your own, with a loved one, or your whole family. Check out these 10 free astronomny apps that will elevate stargazing to a whole new level!",
+        "url": "https://www.hongkiat.com/blog/stargazing-apps/",
+        "image": "https://res.cloudinary.com/simpleview/image/upload/v1565812489/clients/texas/Stargaze_MatagordaRV_website_only_LCRA_53213379-f227-48dd-a2ff-710f7087b737.jpg",
+        "alt": "A couple, wrapped in blankets, sitting in chairs on a beach, gazing at the starry night sky overhead",
+        "categories": [
+            "outside",
+            "couples",
+            "family"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Water Gun Fight",
+        "description": "Grab some water guns at your local dollar store and have an epic water gun fight. Don't forget the water balloons too. Have a blast while you beat the heat. Make sure to check out these other water gun game ideas!",
+        "url": "https://www.playpartyplan.com/outdoor-water-games/",
+        "image": "https://cdn.lifehack.org/wp-content/uploads/2014/10/07031039/cheap-and-fun-date-ideas-watergun.jpg",
+        "alt": "A man and woman shooting each other with water guns in a park",
+        "categories": [
+            "family",
+            "couples",
+            "outside"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Volunteer At An Animal Shelter",
+        "description": "Volunteering is a great way to help others and get out of the house for a while. Make a difference and have fun doing it. The best part about volunteering at an animal shelter is seeing all the adorable pups and kittens!",
+        "url": "https://dogtime.com/how-to/61643-volunteer-animal-shelter",
+        "image": "https://www.dogtime.com/assets/uploads/2018/02/how-to-volunteer-animal-shelter-4-720x407.jpg",
+        "alt": "A young dog inside an animal shelter kennel, on a leash being readied to go for a walk",
+        "categories": [
+            "solo"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Start An Herb Garden",
+        "description": "New to gardening? Herbs are a fun and easy way to hone your green thumb. Check out this article on getting started with your own herb garden. The best part? That satisfying feeling of cooking with something you grew yourself!",
+        "url": "https://bonnieplants.com/gardening/how-to-grow-an-herb-garden/",
+        "image": "https://gardenerspath.com/wp-content/uploads/2020/04/Herbs-Growing-in-Raised-Beds.jpg",
+        "alt": "An outdoor garden filled with planter boxes featuring a myriad of herbs and plants",
+        "categories": [
+            "projects",
+            "crafts"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Curate A Charcuterie Board",
+        "description": "There is something highly satisfying about selecting your favorite cheeses, spreads, jams, meats and whatever else you love, assembling it all together and then chowing down. Check out this post featuring 20 charcuterie board ideas!",
+        "url": "https://www.purewow.com/food/charcuterie-board-recipes",
+        "image": "https://purewows3.imgix.net/images/articles/2020_12/charcuterie-board-ideas_how-to-make-a-charcuterie-board.jpg?auto=format,compress&cs=strip",
+        "alt": "Someone preparing a charcuterie board with a variety of cheeses, sliced meats, pickles and olives",
+        "categories": [
+            "food",
+            "couples"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Paint A Flower Pot",
+        "description": "A fun and easy craft to turn those boring old terracotta pots into unique works of art. This step by step guide details everything you need to make your garden pop!",
+        "url": "https://www.projectswithkids.com/diy-painted-flower-pots-kids/",
+        "image": "https://www.projectswithkids.com/wp-content/uploads/2019/04/painted-pots-feature-copy.jpg",
+        "alt": "Two terracotta flower pots that have been painted bright colors and stenciled phrases, let it grow and don't stop be-leaf-ing",
+        "categories": [
+            "crafts",
+            "family"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Write A Letter",
+        "description": "Everyone loves getting mail, especially cards and letters. Why not help bring some of that joy into someone else's life? Plus, writing a letter by hand can be both fun and therapeutic. Use this guide to help inspire your next hand-written letter!",
+        "url": "https://www.grammarly.com/blog/how-to-write-a-letter-to-a-friend/",
+        "image": "https://contenthub-static.grammarly.com/blog/wp-content/uploads/2020/07/friendly-ltter-760x406.jpg",
+        "alt": "A colorful drawing depicting two people on either side of a letter being written",
+        "categories": [
+            "solo",
+            "crafts",
+            "inside"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Rent A Bike",
+        "description": "Spinlister is a premier bike rental and sharing service that provides a platform to connect bike owners with active people looking to rent or borrow around the world. Where ever you are, find a bike to rent and go explore!",
+        "url": "https://www.spinlister.com/",
+        "image": "https://spinlister-blog.s3.amazonaws.com/2014/08/bike-sharing-spinlister.jpg",
+        "alt": "Six images of different bikes against various city street backdrops",
+        "categories": [
+            "wellness",
+            "outside",
+            "solo"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Origami",
+        "description": "Origami is a fun and inexpensive activity to do with your kiddos, or just yourself. This site has loads of different patterns with detailed instructions. See what you can create!",
+        "url": "https://origami.guide/",
+        "image": "https://www.artnews.com/wp-content/uploads/2020/05/shutterstock_1100575436.jpg",
+        "alt": "A person's hands folding several different Origami animals in brightly colored papers",
+        "categories": [
+            "crafts",
+            "family"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Organize Your Garage",
+        "description": "We've all done it: let our garages become unruly monsters where finding anything is impossible. Use this guide to help you clean and organize your garage, and you will thank yourself for years to come!",
+        "url": "https://www.budgetdumpster.com/blog/how-to-clean-out-your-garage-and-conquer-the-clutter-for-good/",
+        "image": "https://www.drivenbydecor.com/wp-content/uploads/2018/09/how-organize-garage-elfa-utility-shelving-container-store.jpg",
+        "alt": "A clean and organized garage with everyday garaghe items shelved, boxed and labeled",
+        "categories": [
+            "projects"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Painting With A Twist",
+        "description": "Get your paint supplies, your favorite adult beverage and find a virtual paint event with Twist at Home's virtual live painting events. Create a masterpiece!",
+        "url": "https://www.paintingwithatwist.com/pages/virtual-live-events/",
+        "image": "https://c.files.bbci.co.uk/C3F8/production/_99086105_capture.png",
+        "alt": "People painting and having a glass of wine",
+        "categories": [
+            "couples"
+        ]
+    }
+]
