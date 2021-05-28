@@ -3,8 +3,7 @@
 https://boredomoff.netlify.app/
 
 Feeling bored? Don't know what to do? Let  BoredomOff inspire you to try new and fun activities. Find an activity by category or get a totally random!
-<!-- 
-![the-BoredomOff](https://user-images.githubusercontent.com/47455758/113317004-8d85a480-92d4-11eb-9e62-820f43784a6a.jpg) -->
+ 
 
 ## Features
 
