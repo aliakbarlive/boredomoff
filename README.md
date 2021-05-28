@@ -28,3 +28,4 @@ Feeling bored? Don't know what to do? Let  BoredomOff inspire you to try new and
 I have opened a couple issues if you are interested in contributing the EASIEST and CHILLEST open source project in your life. Looking for more activity entries and a re-design of the category button grid, which currently does not fit the theme of the site.
 
 I am open to any and all feedback. Thank you for checking out  BoredomOff
+  
